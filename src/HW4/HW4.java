@@ -2,7 +2,7 @@ package HW4;
 import java.util.Scanner;
 
 public class HW4 {
-    public static void leson4Task1() {
+    public static void lesson4Task1() {
             System.out.println("Задание 1");
 
             Scanner scanner = new Scanner(System.in);
@@ -31,7 +31,7 @@ public class HW4 {
 
     }
 
-    public static void leson4Task2() {
+    public static void lesson4Task2() {
         System.out.println("Задание 2");
 
         Scanner scanner = new Scanner(System.in);
@@ -59,7 +59,7 @@ public class HW4 {
 
     }
 
-    public static void leson4Task3() {
+    public static void lesson4Task3() {
         System.out.println("Задание 3");
 
         Scanner scanner = new Scanner(System.in);
